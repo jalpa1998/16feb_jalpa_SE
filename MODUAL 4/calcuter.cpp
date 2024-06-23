@@ -42,10 +42,10 @@ int main()
 {
 	int ch;
 	calculator c;
-	cout<<"enter 1 to add 2 numbers"<<
-		"\n enter 2 to subtract 2 numbers"<<
-		"\n enter 3 to multiply 2 numbers"<<
-		"\n enter 4 to divide 2 numbers"<<
+	cout<<"enter 1 to addition"<<
+		"\n enter 2 to subtract "<<
+		"\n enter 3 to multiply "<<
+		"\n enter 4 to divide"<<
 		"\n enter 0 to exit";
 	do
 	{
